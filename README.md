@@ -4,9 +4,9 @@
 
 LTspiceではschematic (.asc) ファイルを置いておきます
 
-pythonでは　Step&BODE programと
+pythonでは　1. Step&BODE programと
 
-　　　　　　電気回路の伝達関数を求める Sympyプログラムを置いてあります
+　　　　　　2. 電気回路の伝達関数を求める Sympyプログラムを置いてあります
 
 簡単なプログラムです。検証はすべて終了してはいません。
 
