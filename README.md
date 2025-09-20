@@ -10,3 +10,13 @@ pythonでは　1. Step&BODE programと
 
 簡単なプログラムです。検証はすべて終了してはいません。
 
+< おすすめ>
+
+Github (DCmotor)をZIPファイルとしてdownloadするのをお勧めします。
+
+GitHubリポジトリ全体をダウンロードする場合は、緑の 「Code」→「Download ZIP」 を選び、
+
+展開すれば正しい形式の.ascファイルが含まれています。
+
+
+
